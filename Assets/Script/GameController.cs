@@ -71,7 +71,7 @@ public class GameController : MonoBehaviour {
         if (gameOver)
         {
             restart = true;
-            restartText.text = "Press \"R\" For Restart !";
+            restartText.text = "Press \"R\" For Restart. กลุ่ม 5 ITCMTC";
         }
 
         if (restart)

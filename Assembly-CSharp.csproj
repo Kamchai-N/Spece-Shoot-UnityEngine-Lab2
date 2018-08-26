@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{C0070C97-2F0D-3A8E-DDE2-699EBC974779}</ProjectGuid>
+    <ProjectGuid>{5A3573B9-B235-35EE-1082-BE97AAF0A20F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -82,16 +82,16 @@
     <Compile Include="Assets\Script\RamdomRatator.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>C:/Users/WindowUser/Documents/GameUnity/Spece Shoot Game (Main)/Spece Shoot Game (Main)/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/WindowUser/Documents/GameUnity/Spece Shoot Game (Main)/Spece Shoot Game (Main)/Spece-Shoot-UnityEngine-Lab2/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/WindowUser/Documents/GameUnity/Spece Shoot Game (Main)/Spece Shoot Game (Main)/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/WindowUser/Documents/GameUnity/Spece Shoot Game (Main)/Spece Shoot Game (Main)/Spece-Shoot-UnityEngine-Lab2/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/WindowUser/Documents/GameUnity/Spece Shoot Game (Main)/Spece Shoot Game (Main)/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/WindowUser/Documents/GameUnity/Spece Shoot Game (Main)/Spece Shoot Game (Main)/Spece-Shoot-UnityEngine-Lab2/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/WindowUser/Documents/GameUnity/Spece Shoot Game (Main)/Spece Shoot Game (Main)/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/WindowUser/Documents/GameUnity/Spece Shoot Game (Main)/Spece Shoot Game (Main)/Spece-Shoot-UnityEngine-Lab2/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
